@@ -1,0 +1,17 @@
+h1. KindleFeeder helper
+
+h2. What it does
+
+You like what "KindleFeeder":http://kindlefeeder.com offers, but do not want to click the button to schedule the push to your Amazon Kindle?
+This helper can, if you set it up on a system owned by you, cover this task for you.
+
+h2. Installation
+
+* Download the files and place them on a box with internet connection and capability for schedules tasks
+* Add **_config.php** file specifying your KindleFeeder username and password to the directory
+* Setup a cron job to run the script every 24 hours or so
+
+h2. Disclaimer
+
+Using a script like this may or may not violate the KindleFeeder terms of use. Sure thing, that the guys at KindleFeeder are not going to be very happy about it.
+If you have the money and think that their piece of software makes your day brighter, "buy an account":http://kindlefeeder.com/users/new !
