@@ -1,0 +1,3 @@
+# @see http://all-inkl.com/wichtig/
+
+AddHandler php53-cgi .php
